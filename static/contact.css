@@ -1,0 +1,20 @@
+.first_col{
+    background-color: whitesmoke;
+    height: 550px;
+    position: relative;
+    width: 550px;
+    left: 155px;
+    top: 70px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.img-fluid{
+    border-radius: 20px;
+}
+@media only screen and (max-width:600px){
+    .first_col{
+        position: initial;
+
+    }
+    
+}
